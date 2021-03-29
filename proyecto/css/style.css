@@ -46,8 +46,13 @@ h3{
 	color: green;
 }
 h6{
+<<<<<<< HEAD
    color: pinkish;
 }
 p{
 	text-align: center;
 }
+=======
+	color: coral;
+}
+>>>>>>> f1c786d0a00385452020c7e3514f9a43d2ed8308
